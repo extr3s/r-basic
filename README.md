@@ -1,1 +1,2 @@
-hola caracola
+# Curso de introducción a la estadística descriptiva
+#
